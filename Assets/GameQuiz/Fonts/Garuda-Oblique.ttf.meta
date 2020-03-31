@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: fabf5a468f77f440c8c46d0ab3e5dd78
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Garuda
+  fontNames:
+  - Garuda
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 210e83e5077c4458199ad5e98945b992, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
